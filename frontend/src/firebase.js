@@ -8,7 +8,8 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAIWvlIljEWL4C8PwZaUXenk_IobPWfpXc",
+  // add apikey here
+  apiKey: " ",
   authDomain: "cbuddy-91d74.firebaseapp.com",
   projectId: "cbuddy-91d74",
   storageBucket: "cbuddy-91d74.appspot.com",
